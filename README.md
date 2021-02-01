@@ -1,4 +1,4 @@
-<img src="https://github.com/KallSnake/KallSnake/blob/main/san-3178909_1280.jpg" height="920" width="720">
+<img src="https://github.com/KallSnake/KallSnake/blob/main/san-3178909_1280.jpg" height="520" width="1520">
 
 
 ### Hi there 👋
