@@ -1,5 +1,6 @@
 ### Olá, meu nome é Luis Silva! 👋
 
+##
 
 <div>
     <a href="https://github.com/kallsnake">
@@ -12,11 +13,12 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kallsnake)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kallsnake/)
 
-    
+##
+ 
 - [Blog](https://kallsnake.blogspot.com/) ✍🏼 - Assuntos relacionados a tecnologia, informática, músicas e games, além de, algumas atividades acadêmicas.
 - [Website](https://kallsnake.github.io/) 💻 - Trabalhando nisso (EM BREVE).
 
-
+##
 
 ![Snake animation](https://github.com/kallsnake/kallsnake/blob/output/github-contribution-grid-snake.svg)    
     
