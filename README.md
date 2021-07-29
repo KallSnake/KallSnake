@@ -1,4 +1,4 @@
-### Olá, sou Luis Silva! 👋
+### Olá, meu nome é Luis Silva! 👋
 
 
 <div>
@@ -7,6 +7,7 @@
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallsnake&layout=compact&langs_count=16&theme=radical"/>
 </div> 
 
+##
     
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kallsnake)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kallsnake/)
