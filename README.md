@@ -4,7 +4,7 @@
 
     <a href="https://github.com/kallsnake">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kallsnake&show_icons=true&theme=dracula&include_all_commits=true&count-private=true"/> 
-    <img height="180em" src=""/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallsnake&layout=compact&langs_count&theme=dracula"/>
 
 </div>
 
