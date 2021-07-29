@@ -1,5 +1,13 @@
 ### Olá, sou Luis Silva! 👋
 
+<div>
+
+    <a href="https://github.com/kallsnake">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kallsnake&show_icons=true&theme=dracula&include_all_commits=true&count-private=true"/> 
+    <img height="180em" src=""/>
+
+</div>
+
 
     
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/kallsnake)
