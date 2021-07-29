@@ -16,6 +16,9 @@
 - [Website](https://kallsnake.github.io/) 💻 - Trabalhando nisso (EM BREVE).
 
 
+
+![Snake animation](https://github.com/kallsnake/kallsnake/blob/output/github-contribution-grid-snake.svg)    
+    
     
 <!--
 **KallSnake/KallSnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
