@@ -4,6 +4,8 @@
 
 Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia.
 
+## 
+
 <div>
     <a href="https://github.com/kallsnake">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=kallsnake&show_icons=true&theme=radical&include_all_commits=true&count-private=true"/> 
