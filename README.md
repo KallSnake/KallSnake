@@ -1,6 +1,8 @@
 ### 👋 Olá, me chamo Luis Silva! 
 
-## Sou formado Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia desde novembro de 2020.
+## 
+
+Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia.
 
 <div>
     <a href="https://github.com/kallsnake">
