@@ -1,8 +1,6 @@
 ### 👋 Olá, me chamo Luis Silva! 
 
-## 
-
-Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia.
+Sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA).
 
 ## 
 
